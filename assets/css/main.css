@@ -699,43 +699,106 @@ a.back-to-top:hover, a.back-to-top:focus {
 /* ==========================================================================
 2. Skills
 ========================================================================== */
-.skills .progress {
-  height: 60px;
-  display: block;
-  background: none;
-  border-radius: 0;
+
+html, body { padding: 0; margin: 0; }
+.image-grid div {
+  width: 15%;
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: 100px;
+  background-position: center right;
 }
 
-.skills .progress .skill {
-  padding: 0;
-  margin: 0 0 6px 0;
-  text-transform: uppercase;
-  display: block;
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color: #050d18;
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.skills .progress .skill .val {
-  float: right;
-  font-style: normal;
+.facebook {
+  background-image: url(/assets/img/img_comp/facebook.png);
 }
 
-.skills .progress-bar-wrap {
-  background: #dce8f8;
-  height: 10px;
+.instagram {
+  background-image: url(/assets/img/img_comp/instagram.png);
 }
 
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: .9s;
-  background-color: #00b4d9;
+.linkedin {
+  background-image: url(/assets/img/img_comp/linkedin-logo.png);
 }
 
-.section-bg {
-  background: #f5f8fd;
+.wordpress {
+  background-image: url(/assets/img/img_comp/wordpress.png);
 }
+
+.woocommerce {
+  background-image: url(/assets/img/img_comp/woocommerce.png);
+}
+
+.yoast {
+  background-image: url(/assets/img/img_comp/yoast.png);
+}
+
+.prestashop {
+  background-image: url(/assets/img/img_comp/prestashop.png);
+}
+
+.sendinblue {
+  background-image: url(/assets/img/img_comp/sendinblue.png);
+}
+
+.mailchimp {
+  background-image: url(/assets/img/img_comp/mailchimp.png);
+}
+
+.googleanalytics{
+  background-image: url(/assets/img/img_comp/google_analytics.png);
+}
+
+.googlesearchconsole{
+  background-image: url(/assets/img/img_comp/googlesearchconsole.png);
+}
+
+.ubbersubgest{
+  background-image: url(/assets/img/img_comp/sub.png);
+}
+
+.canva{
+  background-image: url(/assets/img/img_comp/canva.png);
+}
+
+.adobexd{
+  background-image: url(/assets/img/img_comp/xd.png);
+}
+
+.photoshop{
+  background-image: url(/assets/img/img_comp/photoshop.png);
+}
+
+.aftereffect{
+  background-image: url(/assets/img/img_comp/after-effects.png);
+}
+
+.photo{
+  background-image: url(/assets/img/img_comp/photo.png);
+}
+
+
+.html{
+  background-image: url(/assets/img/img_comp/html.png);
+}
+
+.css{
+  background-image: url(/assets/img/img_comp/css.png);
+}
+
+
+
+
+
+
+
+
+
 
 /* ==========================================================================
 3. Hero Area
