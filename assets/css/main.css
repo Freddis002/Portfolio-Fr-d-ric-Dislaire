@@ -714,9 +714,6 @@ html, body { padding: 0; margin: 0; }
   flex-wrap: wrap;
 }
 
-.facebook {
-  background-image: url(/assets/img/img_comp/facebook.png);
-}
 
 .instagram {
   background-image: url(/assets/img/img_comp/instagram.png);
