@@ -725,74 +725,90 @@ html, body { padding: 0; margin: 0; }
 }
 
 
-
-.linkedin {
-  background-image: url(/assets/img/img_comp/linkedin-logo.png);
+.linkedin img {
+  width: 100px;
+  height: 100px;
 }
 
-.wordpress {
-  background-image: url(/assets/img/img_comp/wordpress.png);
+.wordpress img {
+  width: 100px;
+  height: 100px;
 }
 
-.woocommerce {
-  background-image: url(/assets/img/img_comp/woocommerce.png);
+.woocommerce img {
+  width: 100px;
+  height: 100px
 }
 
-.yoast {
-  background-image: url(/assets/img/img_comp/yoast.png);
+.yoast img {
+  width: 100px;
+  height: 100px
 }
 
-.prestashop {
-  background-image: url(/assets/img/img_comp/prestashop.png);
+.prestashop img {
+  width: 100px;
+  height: 100px;
 }
 
-.sendinblue {
-  background-image: url(/assets/img/img_comp/sendinblue.png);
+.sendinblue img {
+  width: 100px;
+  height: 100px;
 }
 
-.mailchimp {
-  background-image: url(/assets/img/img_comp/mailchimp.png);
+.mailchimp img {
+  width: 100px;
+  height: 100px;
 }
 
-.googleanalytics{
-  background-image: url(/assets/img/img_comp/google_analytics.png);
+.googleanalytics img{
+  width: 100px;
+  height: 100px;
 }
 
-.googlesearchconsole{
-  background-image: url(/assets/img/img_comp/googlesearchconsole.png);
+.googlesearchconsole img{
+  width: 100px;
+  height: 100px;
 }
 
-.ubbersubgest{
-  background-image: url(/assets/img/img_comp/sub.png);
+.ubbersubgest img{
+  width: 100px;
+  height: 100px;
 }
 
-.canva{
-  background-image: url(/assets/img/img_comp/canva.png);
+.canva img{
+  width: 100px;
+  height: 100px;
 }
 
-.adobexd{
-  background-image: url(/assets/img/img_comp/xd.png);
+.adobexd img{
+  width: 100px;
+  height: 100px;
 }
 
-.photoshop{
-  background-image: url(/assets/img/img_comp/photoshop.png);
+.photoshop img{
+  width: 100px;
+  height: 100px;
 }
 
-.aftereffect{
-  background-image: url(/assets/img/img_comp/after-effects.png);
+.aftereffect img{
+  width: 100px;
+  height: 100px;
 }
 
-.photo{
-  background-image: url(/assets/img/img_comp/photo.png);
+.photo img{
+  width: 100px;
+  height: 100px;
 }
 
 
-.html{
-  background-image: url(/assets/img/img_comp/html.png);
+.html img{
+  width: 100px;
+  height: 100px;
 }
 
-.css{
-  background-image: url(/assets/img/img_comp/css.png);
+.css img{
+  width: 100px;
+  height: 100px;
 }
 
 @media screen and (max-width: 400px) {
